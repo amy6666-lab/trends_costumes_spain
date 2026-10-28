@@ -39,20 +39,30 @@ El análisis se desarrolla en las siguientes etapas:
 ·Cálculo de las variaciones del interés entre meses consecutivos.
 ·Interpretación de los resultados desde una perspectiva de marketing.
 
-6) Visualizaciones y resultados  
+6) Visualizaciones y resultados
+
+   <img width="1200" height="500" alt="1_evolucion_temporal" src="https://github.com/user-attachments/assets/b99af944-d15b-4993-99da-e0ca29713707" />
 
 6.1 Evolución temporal del interés
 El primer gráfico permite observar cómo ha evolucionado el interés de búsqueda de "disfraces" a lo largo del periodo analizado.
 Esta visualización ayuda a detectar aumentos y descensos del interés y a localizar posibles patrones estacionales.
+
+<img width="1000" height="600" alt="2_interes_medio_mes" src="https://github.com/user-attachments/assets/f141bcb4-6568-48cc-8170-1bd938d23344" />
+
 
 6.2 Interés medio por mes
 El gráfico de barras muestra el interés medio asociado a cada mes.
 Los resultados destacan especialmente febrero y octubre, dos periodos relacionados con celebraciones en las que los disfraces tienen un papel importante.
 Febrero se relaciona con las celebraciones de Carnaval, mientras que octubre destaca por Halloween.
 
+<img width="1200" height="600" alt="3_comparacion_anios" src="https://github.com/user-attachments/assets/a9938781-17e3-4f7c-8026-01d108221665" />
+
+
 6.3 Comparación entre años
 La comparación mensual permite observar qué patrones se repiten y qué diferencias aparecen entre años.
 Aunque se identifican periodos de mayor interés similares, las variaciones entre años pueden estar relacionadas con factores como el calendario de las celebraciones, los hábitos de búsqueda y otros acontecimientos.
+
+<img width="1300" height="700" alt="4_cambios_mensuales" src="https://github.com/user-attachments/assets/aa5ebb4d-c64f-4105-adee-0e4d6af8b216" />
 
 6.4 Cambios mensuales del interés
 El último gráfico representa la diferencia entre el índice de interés de un mes y el del mes anterior para cada año.
